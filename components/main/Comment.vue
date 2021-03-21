@@ -27,7 +27,7 @@ export default {
     display: flex;
     justify-content: space-between;
     margin-bottom: 0.5rem;
-    font-size: 0.8rem;
+    font-size: 0.9rem;
   }
 
   .comment-text {
